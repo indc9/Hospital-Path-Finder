@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="urgencias" size="1.000000 1.000000" />
+    <ImageTarget name="traumatologia" size="1.000000 1.000000" />
+    <ImageTarget name="saladepartos" size="1.000000 1.000000" />
+    <ImageTarget name="recepcion" size="1.000000 1.000000" />
+    <ImageTarget name="quirofano" size="1.000000 1.000000" />
+    <ImageTarget name="pediatria" size="1.000000 1.000000" />
+    <ImageTarget name="pasillo3" size="1.000000 1.000000" />
+    <ImageTarget name="pasillo2" size="1.000000 1.000000" />
+    <ImageTarget name="pasillo1" size="1.000000 1.000000" />
+    <ImageTarget name="oftalmologia" size="1.000000 1.000000" />
+    <ImageTarget name="cafeteria" size="1.000000 1.000000" />
+  </Tracking>
+</QCARConfig>
